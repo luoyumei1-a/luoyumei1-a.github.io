@@ -66,15 +66,14 @@ My research interests：
 </div>
 </div>
 
--	`Ruofeng Liu`, Tianshun Yao, Ruili Shi, Luoyu Mei, Shuai Wang, Zhimeng Yin, Wenchao Jiang, Shuai Wang. Mission: mmWave Radar Person Identification with RGB Cameras. *Proceedings of the 22nd ACM Conference on Embedded Networked Sensor Systems (SenSys 2024)*. 2024. (CCF B)  
+- `Luoyu Mei`, Zhimeng Yin, Shuai Wang, Xiaolei Zhou, Taiwei Ling, Tian He. ECRLoRa: LoRa Packet Recovery under Low SNR via Edge–Cloud Collaboration. *ACM Transactions on Sensor Networks (TOSN)*. 20 (2), 1-25. (CCF B)  
+[[DOI]](https://doi.org/10.1145/3604936) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/ECRLoRa_LoRa%20Packet%20Recovery%20under%20Low%20SNR%20via%20Edge%E2%80%93Cloud%20Collaboration.pdf)
+
+- Shuai Wang, `Luoyu Mei (co-first)`, Zhimeng Yin, Hao Li, Ruofeng Liu, Wenchao Jiang, Chris Xiaoxuan Lu. End-to-End Target Liveness Detection via mmWave Radar and Vision Fusion for Autonomous Vehicles. *ACM Transactions on Sensor Networks (TOSN)*. 20 (4), 1-26. (CCF B)  
+[[DOI]](https://doi.org/10.1145/3666025.3699340) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/End-to-End%20Target%20Liveness%20Detection%20via%20mmWave%20Radar%20and%20Vision%20Fusion%20for%20Autonomous%20Vehicles.pdf)
+
+-	Ruofeng Liu, Tianshun Yao, Ruili Shi, `Luoyu Mei`, Shuai Wang, Zhimeng Yin, Wenchao Jiang, Shuai Wang. Mission: mmWave Radar Person Identification with RGB Cameras. *Proceedings of the 22nd ACM Conference on Embedded Networked Sensor Systems (SenSys 2024)*. 2024. (CCF B)  
 [[DOI]](https://doi.org/10.1145/3666025.3699340) [[Download]](https://liux4189.github.io/files/Mission_Sensys24.pdf)
-
-- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15 (20): 7362. (JCR:Q1; IF:3.748)  
-[[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
-
-
-- Xin Jin, Hongbao Ma, `Jian Tang`, Yihua Kang, A Self-Adaptive Vibration Reduction Method Based on Deep Deterministic Policy Gradient (DDPG) Reinforcement Learning Algorithm. *Applied Sciences*. 2022,12(9): 9703. (JCR:Q2; IF:2.838)  
-[[网页]](https://dx.doi.org/10.3390/app12199703) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf) [[下载]](/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf)
 
 - Jikai Zhang, Yuewen Huang, `Jian Tang`, Fangfang Zhou, Yihua Kang, Bo Feng. Inspection of Cracks in the Piston Rod of a Hydraulic Cylinder Using Injected Alternating Current-Field Measurement. *Water*. 2022 14(17):2736. (JCR:Q2; IF:3.530)  
 [[网页]](https://dx.doi.org/10.3390/w14172736) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf) [[下载]](/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf)
