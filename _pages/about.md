@@ -57,7 +57,7 @@ My research interests：
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SenSys 2024</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COMST 2024</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Wang Shuai, `Luoyu Mei (co-first)`, Ruofeng Liu, Wenchao Jiang, Zhimeng Yin, Xianjun Deng, and Tian He. Multi-Modal Fusion Sensing: A Comprehensive Review of Millimeter-Wave Radar and Its Integration With Other Modalities. *IEEE Communications Surveys & Tutorials (2024)*. 2024. (JCR:Q1 TOP; IF: 34.4)
