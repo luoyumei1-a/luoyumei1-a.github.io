@@ -42,7 +42,7 @@ My research interests：
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMUWT 2025</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Luoyu Mei`, Ruofeng Liu, Zhimeng Yin, Qingchuan Zhao, Wenchao Jiang, Shuai Wang, Shuai Wang, Kangjie Lu, and Tian He. "mmSpyVR: Exploiting mmWave Radar for Penetrating Obstacles to Uncover Privacy Vulnerability of Virtual Reality." *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*, vol. 8, no. 4 (2024): 1-29. (CCF A)
+-	`Luoyu Mei`, Ruofeng Liu, Zhimeng Yin, Qingchuan Zhao, Wenchao Jiang, Shuai Wang, Shuai Wang, Kangjie Lu, and Tian He. "mmSpyVR: Exploiting mmWave Radar for Penetrating Obstacles to Uncover Privacy Vulnerability of Virtual Reality." *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*, vol. 8, no. 4 (2024): 1-29. (<span style="color: red;">CCF A</span>)
 [[DOI]](https://doi.org/https://doi.org/10.1145/3699772) [[Download]](https://arxiv.org/pdf/2411.09914)
 
 </div>
@@ -51,7 +51,7 @@ My research interests：
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Luoyu Mei`, Shuai Wang, Yun Cheng, Ruofeng Liu, Zhimeng Yin, Wenchao Jiang, Shuai Wang, Wei Gong. ESP-PCT: Enhanced VR Semantic Performance through Efficient Compression of Temporal and Spatial Redundancies in Point Cloud Transformers. *Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI 24)*. 2024. (CCF A)  
+-	`Luoyu Mei`, Shuai Wang, Yun Cheng, Ruofeng Liu, Zhimeng Yin, Wenchao Jiang, Shuai Wang, Wei Gong. ESP-PCT: Enhanced VR Semantic Performance through Efficient Compression of Temporal and Spatial Redundancies in Point Cloud Transformers. *Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI 24)*. 2024. (<span style="color: red;">CCF A</span>)
 [[DOI]](https://doi.org/10.24963/ijcai.2024/131) [[Download]](https://www.ijcai.org/proceedings/2024/0131.pdf)
 
 </div>
@@ -60,19 +60,19 @@ My research interests：
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COMST 2024</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Wang Shuai, `Luoyu Mei (co-first)`, Ruofeng Liu, Wenchao Jiang, Zhimeng Yin, Xianjun Deng, and Tian He. Multi-Modal Fusion Sensing: A Comprehensive Review of Millimeter-Wave Radar and Its Integration With Other Modalities. *IEEE Communications Surveys & Tutorials (2024)*. 2024. (JCR:Q1 TOP; IF: 34.4)
+-	Wang Shuai, `Luoyu Mei (co-first)`, Ruofeng Liu, Wenchao Jiang, Zhimeng Yin, Xianjun Deng, and Tian He. Multi-Modal Fusion Sensing: A Comprehensive Review of Millimeter-Wave Radar and Its Integration With Other Modalities. *IEEE Communications Surveys & Tutorials (2024)*. 2024. (<span style="color: red;">JCR:Q1 TOP; IF: 34.4</span>)
 [[DOI]](https://doi.org/10.1145/3666025.3699340) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/Multi-Modal_Fusion_Sensing_A_Comprehensive_Review_of_Millimeter-Wave_Radar_and_Its_Integration_With_Other_Modalities.pdf)
 
 </div>
 </div>
 
-- `Luoyu Mei`, Zhimeng Yin, Shuai Wang, Xiaolei Zhou, Taiwei Ling, Tian He. ECRLoRa: LoRa Packet Recovery under Low SNR via Edge–Cloud Collaboration. *ACM Transactions on Sensor Networks (TOSN)*. 20 (2), 1-25. (CCF B)  
+- `Luoyu Mei`, Zhimeng Yin, Shuai Wang, Xiaolei Zhou, Taiwei Ling, Tian He. ECRLoRa: LoRa Packet Recovery under Low SNR via Edge–Cloud Collaboration. *ACM Transactions on Sensor Networks (TOSN)*. 20 (2), 1-25. (<span style="color: yellow;">CCF B</span>)
 [[DOI]](https://doi.org/10.1145/3604936) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/ECRLoRa_LoRa%20Packet%20Recovery%20under%20Low%20SNR%20via%20Edge%E2%80%93Cloud%20Collaboration.pdf)
 
-- Shuai Wang, `Luoyu Mei (co-first)`, Zhimeng Yin, Hao Li, Ruofeng Liu, Wenchao Jiang, Chris Xiaoxuan Lu. End-to-End Target Liveness Detection via mmWave Radar and Vision Fusion for Autonomous Vehicles. *ACM Transactions on Sensor Networks (TOSN)*. 20 (4), 1-26. (CCF B)  
+- Shuai Wang, `Luoyu Mei (co-first)`, Zhimeng Yin, Hao Li, Ruofeng Liu, Wenchao Jiang, Chris Xiaoxuan Lu. End-to-End Target Liveness Detection via mmWave Radar and Vision Fusion for Autonomous Vehicles. *ACM Transactions on Sensor Networks (TOSN)*. 20 (4), 1-26. (<span style="color: yellow;">CCF B</span>)
 [[DOI]](https://doi.org/10.1145/3666025.3699340) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/End-to-End%20Target%20Liveness%20Detection%20via%20mmWave%20Radar%20and%20Vision%20Fusion%20for%20Autonomous%20Vehicles.pdf)
 
--	Ruofeng Liu, Tianshun Yao, Ruili Shi, `Luoyu Mei`, Shuai Wang, Zhimeng Yin, Wenchao Jiang, Shuai Wang. Mission: mmWave Radar Person Identification with RGB Cameras. *Proceedings of the 22nd ACM Conference on Embedded Networked Sensor Systems (SenSys 2024)*. 2024. (CCF B)  
+-	Ruofeng Liu, Tianshun Yao, Ruili Shi, `Luoyu Mei`, Shuai Wang, Zhimeng Yin, Wenchao Jiang, Shuai Wang. Mission: mmWave Radar Person Identification with RGB Cameras. *Proceedings of the 22nd ACM Conference on Embedded Networked Sensor Systems (SenSys 2024)*. 2024. (<span style="color: yellow;">CCF B</span>)  
 [[DOI]](https://doi.org/10.1145/3666025.3699340) [[Download]](https://liux4189.github.io/files/Mission_Sensys24.pdf)
 
 ### 中文
