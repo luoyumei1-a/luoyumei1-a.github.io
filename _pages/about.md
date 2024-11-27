@@ -42,7 +42,7 @@ My research interests：
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMUWT 2025</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Mei Luoyu`, Ruofeng Liu, Zhimeng Yin, Qingchuan Zhao, Wenchao Jiang, Shuai Wang, Shuai Wang, Kangjie Lu, and Tian He. "mmSpyVR: Exploiting mmWave Radar for Penetrating Obstacles to Uncover Privacy Vulnerability of Virtual Reality." *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*, vol. 8, no. 4 (2024): 1-29. (CCF A)
+-	`Luoyu Mei`, Ruofeng Liu, Zhimeng Yin, Qingchuan Zhao, Wenchao Jiang, Shuai Wang, Shuai Wang, Kangjie Lu, and Tian He. "mmSpyVR: Exploiting mmWave Radar for Penetrating Obstacles to Uncover Privacy Vulnerability of Virtual Reality." *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*, vol. 8, no. 4 (2024): 1-29. (CCF A)
 [[DOI]](https://doi.org/https://doi.org/10.1145/3699772) [[Download]](https://arxiv.org/pdf/2411.09914)
 
 </div>
@@ -60,12 +60,14 @@ My research interests：
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SenSys 2024</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+-	Wang Shuai, `Luoyu Mei (co-first)`, Ruofeng Liu, Wenchao Jiang, Zhimeng Yin, Xianjun Deng, and Tian He. Multi-Modal Fusion Sensing: A Comprehensive Review of Millimeter-Wave Radar and Its Integration With Other Modalities. *IEEE Communications Surveys & Tutorials (2024)*. 2024. (JCR:Q1 TOP; IF: 34.4)
+[[DOI]](https://doi.org/10.1145/3666025.3699340) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/Multi-Modal_Fusion_Sensing_A_Comprehensive_Review_of_Millimeter-Wave_Radar_and_Its_Integration_With_Other_Modalities.pdf)
+
+</div>
+</div>
+
 -	`Ruofeng Liu`, Tianshun Yao, Ruili Shi, Luoyu Mei, Shuai Wang, Zhimeng Yin, Wenchao Jiang, Shuai Wang. Mission: mmWave Radar Person Identification with RGB Cameras. *Proceedings of the 22nd ACM Conference on Embedded Networked Sensor Systems (SenSys 2024)*. 2024. (CCF B)  
 [[DOI]](https://doi.org/10.1145/3666025.3699340) [[Download]](https://liux4189.github.io/files/Mission_Sensys24.pdf)
-
-</div>
-</div>
-
 
 - Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15 (20): 7362. (JCR:Q1; IF:3.748)  
 [[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
