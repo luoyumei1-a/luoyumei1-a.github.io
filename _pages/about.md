@@ -123,15 +123,15 @@ My research interests：
  (Method for detecting indoor personnel state for solving large-scale signal heterogeneity). *<span style="color: red;">发明授权</span>*. 2024, CN114095892B.
 [[Google Patents]](https://patents.google.com/patent/CN114095892B) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2021113639189.pdf)
 
+- 	王帅，胡斌，`梅洛瑜`，张杰锋. 基于多维特征的LoRa并发传输解调方法
+ (LoRa concurrent transmission demodulation method based on multidimensional characteristics). *<span style="color: red;">发明授权</span>*. 2023, CN114268529B.
+[[Google Patents]](https://patents.google.com/patent/CN114268529B) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2021115669189.pdf)
+
 - 	王帅，`梅洛瑜`，曹东江，史瑞签. 一种基于联合学习的动态毫米波雷达点云人体解析方法 (Dynamic millimeter wave Lei Dadian cloud human body analysis method based on joint learning). *发明公布*. 2023, CN116359846A.
 [[Google Patents]](https://patents.google.com/patent/CN116359846A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2023102365076.pdf)
 
 - 	王帅，卢志强，林丽，`梅洛瑜`. 一种异常事件下的电商物资供需联合预测方法 (E-commerce material supply and demand combined prediction method under abnormal event). *发明公布*. 2023, CN117058713A.
 [[Google Patents]](https://patents.google.com/patent/CN116934380A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2023108941746.pdf)
-
-- 	王帅，胡斌，`梅洛瑜`，张杰锋. 基于多维特征的LoRa并发传输解调方法
- (LoRa concurrent transmission demodulation method based on multidimensional characteristics). *<span style="color: red;">发明授权</span>*. 2023, CN114268529B.
-[[Google Patents]](https://patents.google.com/patent/CN114268529B) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2021115669189.pdf)
 
 - 	王帅，左伟健，`梅洛瑜`. 一种预测揽派快递员揽收时间的系统 (System for predicting collecting time of collecting and dispatching courier). *发明公布*. 2023, CN116644834A.
 [[Google Patents]](https://patents.google.com/patent/CN116644834A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2023103875729.pdf)
