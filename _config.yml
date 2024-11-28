@@ -24,9 +24,14 @@ author:
   name             : "MEI Luoyu"
   avatar           : "images/照片_2024.jpg"
   bio              : "Joint PhD candidate at City University of Hong Kong and Southeast University"
-  location         : "Hong Kong, Nanjing"
-  employer         : "City University of Hong Kong"
-  employer         : "Southeast University"
+  location         : "Hong Kong"
+  location         : "Nanjing"
+  location:
+  - "Hong Kong"
+  - "Nanjing"
+  employer:
+    - "City University of Hong Kong"
+    - "Southeast University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=nOMD2YIAAAAJ"
   email            : "lymei-@seu.edu.cn, luoyumei2-c@my.cityu.edu.hk"
