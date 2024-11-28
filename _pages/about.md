@@ -96,8 +96,22 @@ My research interests：
 - 	王帅，`梅洛瑜`，张心睿，刘尧畅. 基于深度学习的稀疏轨迹数据恢复系统及方法 (Sparse track data recovery system and method based on deep learning). *<span style="color: red;">发明授权</span>*. 2022, CN115017250B.
 [[Google Patents]](https://patents.google.com/patent/CN115017250B) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2022107569126.pdf)
 
+- 	王帅，曹东江，`梅洛瑜`，裴思远. 一种基于视觉和射频感知的跨模态ReID方法 (Cross-modal ReID method based on vision and radio frequency perception). *<span style="color: red;">发明授权</span>*. 2024, CN114022901B.
+[[Google Patents]](https://patents.google.com/patent/CN114022901B) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2021112981785.pdf)
+
+- 	王帅，胡世杰，`梅洛瑜`. 一种基于强化学习的区域间供需平衡的方法 (Method for balancing supply and demand among areas based on reinforcement learning). *<span style="color: red;">发明授权</span>*. 2024, CN114118851B.
+[[Google Patents]](https://patents.google.com/patent/CN114118851B) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2021112981785.pdf)
+
+- 	王帅，`梅洛瑜`，刘尧畅，张心睿. 基于深度学习的区域物流单量预测系统及方法 (Regional logistics single quantity prediction system and method based on deep learning). *<span style="color: red;">发明授权</span>*. 2024, CN115018553B.
+[[Google Patents]](https://patents.google.com/patent/CN115018553B) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/202210756922X.pdf)
+
+- 	王帅，王海，`梅洛瑜`，徐鑫. 一种基于移动群体感知的蜂窝信号地图构建方法 (Cellular signal map construction method based on mobile group perception). *<span style="color: red;">发明授权</span>*. 2024, CN114048783B.
+[[Google Patents]](https://patents.google.com/patent/CN114048783B) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/202111365159X.pdf)
+
+
+
 - 	王帅，`梅洛瑜`，李文炜. 基于头戴式毫米波雷达的第一人称姿态估计方法及系统 (First person posture estimation method and system based on head-mounted millimeter wave radar). *发明公布*. 2023, CN117058713A.
-[[Google Patents]](https://patents.google.com/patent/CN117058713A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2023109920874.pdf) 
+[[Google Patents]](https://patents.google.com/patent/CN117058713A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2021114704043.pdf)
 
 - 	王帅，卢志强，林丽，`梅洛瑜`. 一种异常事件下的电商物资供需联合预测方法 (E-commerce material supply and demand combined prediction method under abnormal event). *发明公布*. 2023, CN117058713A.
 [[Google Patents]](https://patents.google.com/patent/CN116934380A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2023108941746.pdf)
