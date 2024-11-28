@@ -76,10 +76,16 @@ My research interests：
 [[DOI]](https://doi.org/10.1145/3666025.3699340) [[Download]](https://liux4189.github.io/files/Mission_Sensys24.pdf)
 
 -	Zhiyuan Cui, `Luoyu Mei`, Siyuan Pei, Borui Li, Xiaolei Zhou. Privacy-preserving Human Activity Recognition via Video-based Range-Doppler Synthesis. *International Conference on Computer Supported Cooperative Work in Design (CSCWD)*. 2024. (<span style="color: #6AA84F;">CCF C</span>)  
-[[DOI]](https://doi.org/10.1109/CSCWD61410.2024.10580232) [[Download]]()
+[[DOI]](https://doi.org/10.1109/CSCWD61410.2024.10580232) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/Privacy-preserving_Human_Activity_Recognition_via_Video-based_Range-Doppler_Synthesis.pdf)
 
 -	Chongyang Song, `Luoyu Mei`, Borui Li, Xiaolei Zhou. Dynamic Liveness Detection Based on Fusion of mmWave Radar and Vision. *China Conference on Wireless Sensor Networks (CWSN)*. 2023.
-[[DOI]](https://doi.org/10.1007/978-981-97-1010-2_4) [[Download]]()
+[[DOI]](https://doi.org/10.1007/978-981-97-1010-2_4) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/978-981-97-1010-2.pdf)
+
+-	Pengfei Song, `Luoyu Mei`, Han Cheng. Human semantic segmentation using millimeter-wave radar sparse point clouds. *International Conference on Computer Supported Cooperative Work in Design (CSCWD)*. 2023. (<span style="color: #6AA84F;">CCF C</span>)  
+[[DOI]](https://doi.org/10.1109/CSCWD57460.2023.10152726) [[Download]](https://arxiv.org/pdf/2304.14132)
+
+-	Wenchao Jiang, Feng Li, `Luoyu Mei`, Ruofeng Liu, Shuai Wang. VisBLE: Vision-enhanced BLE device tracking. *IEEE International Conference on Sensing, Communication, and Networking (SECON)*. 2023. (<span style="color: #DAA520;">CCF B</span>)  
+[[DOI]](https://doi.org/10.1109/SECON55815.2022.9918581) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/VisBLE_Vision-Enhanced_BLE_Device_Tracking.pdf)
 
 ### 中文
 ---
