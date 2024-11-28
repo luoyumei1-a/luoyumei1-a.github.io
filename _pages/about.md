@@ -109,6 +109,9 @@ My research interests：
 - 	王帅，胡世杰，林丽，夏凯文，`梅洛瑜`. 面向POI的突发公共卫生事件重点区域预测方法及系统 (POI-oriented sudden public health event key area prediction method and system). *发明公布*. 2023, CN116525132A.
 [[Google Patents]](https://patents.google.com/patent/CN116525132A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2023103181421.pdf)
 
+- 	王帅，林丽，夏凯文，许凌艺，`梅洛瑜`. 一种面向应急最后一公里物流的快递员资源分配方法 (Express delivery person resource allocation method for emergency last kilometer logistics). *发明公布*. 2023, CN117057521A.
+[[Google Patents]](https://patents.google.com/patent/CN117057521A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2023103135048.pdf)
+
 ### 获奖
 ---
 
