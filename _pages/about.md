@@ -93,13 +93,13 @@ My research interests：
 -	Peiyuan Qin, `Luoyu Mei`, Qi Jing, Shuai Wang, Zhimeng Yin, Xiaolei Zhou. Eccr: Edge-cloud collaborative recovery for low-power wide-area networks interference mitigation. *Wireless Algorithms, Systems, and Applications: 16th International Conference, (WASA)*. 2021. (<span style="color: #6AA84F;">CCF C</span>)  
 [[DOI]](https://doi.org/10.1007/978-3-030-85928-2_39) [[Download]](https://arxiv.org/pdf/2109.05193)
 
-### 中文
+### Patents
 ---
 
-- 	`唐健`，王荣彪，康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67. (核心期刊)  
-[[网页]](https://dx.doi.org/10.11973/wsjc202204000) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
+- 	王帅，`梅洛瑜`，李文炜. 基于头戴式毫米波雷达的第一人称姿态估计方法及系统 *发明公布*. 2023, CN117058713A.
+[[Google Patents]](https://patents.google.com/patent/CN117058713A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2023109920874.pdf) 
 
-- 刘伯承, `唐健*`, 王荣彪, 叶文超, 康宜华. 基于TMR的轴承滚子微细裂纹漏磁检测方法. *仪表技术与传感器*. 2021(12): 111-114+118.  (通讯作者; 核心期刊)  
+- 刘伯承, `唐健*`, 王荣彪, 叶文超, 康宜华. 基于TMR的轴承滚子微细裂纹漏磁检测方法 (First person posture estimation method and system based on head-mounted millimeter wave radar). *仪表技术与传感器*. 2021(12): 111-114+118.  (通讯作者; 核心期刊)  
 [[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
 
 - 	汪圣涵, `唐健*`, 刘军, 陈文宇, 康宜华. 双机械手操作的轴承阵列漏磁检测方法与系统. *轴承*. 2021(01): 54-58+65. (通讯作者; 核心期刊)  
