@@ -112,6 +112,12 @@ My research interests：
 - 	王帅，林丽，夏凯文，许凌艺，`梅洛瑜`. 一种面向应急最后一公里物流的快递员资源分配方法 (Express delivery person resource allocation method for emergency last kilometer logistics). *发明公布*. 2023, CN117057521A.
 [[Google Patents]](https://patents.google.com/patent/CN117057521A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2023103135048.pdf)
 
+- 	王帅，`梅洛瑜`，曹东江，史瑞签. 一种基于联合学习的动态毫米波雷达点云人体解析方法 (Dynamic millimeter wave Lei Dadian cloud human body analysis method based on joint learning). *发明公布*. 2023, CN116359846A.
+[[Google Patents]](https://patents.google.com/patent/CN116359846A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2023102365076.pdf)
+
+- 	王帅，陆瑶，李宗晟`梅洛瑜`. 基于分层强化学习的即时配送实时合作调度系统 (Instant delivery real-time cooperation scheduling system based on layered reinforcement learning). *发明公布*. 2022, CN115510664A.
+[[Google Patents]](https://patents.google.com/patent/CN115510664A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2022112252370.pdf)
+
 ### 获奖
 ---
 
