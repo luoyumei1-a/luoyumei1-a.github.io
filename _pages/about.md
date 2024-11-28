@@ -84,8 +84,14 @@ My research interests：
 -	Pengfei Song, `Luoyu Mei`, Han Cheng. Human semantic segmentation using millimeter-wave radar sparse point clouds. *International Conference on Computer Supported Cooperative Work in Design (CSCWD)*. 2023. (<span style="color: #6AA84F;">CCF C</span>)  
 [[DOI]](https://doi.org/10.1109/CSCWD57460.2023.10152726) [[Download]](https://arxiv.org/pdf/2304.14132)
 
--	Wenchao Jiang, Feng Li, `Luoyu Mei`, Ruofeng Liu, Shuai Wang. VisBLE: Vision-enhanced BLE device tracking. *IEEE International Conference on Sensing, Communication, and Networking (SECON)*. 2023. (<span style="color: #DAA520;">CCF B</span>)  
+-	Wenchao Jiang, Feng Li, `Luoyu Mei`, Ruofeng Liu, Shuai Wang. VisBLE: Vision-enhanced BLE device tracking. *IEEE International Conference on Sensing, Communication, and Networking (SECON)*. 2022. (<span style="color: #DAA520;">CCF B</span>)  
 [[DOI]](https://doi.org/10.1109/SECON55815.2022.9918581) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/VisBLE_Vision-Enhanced_BLE_Device_Tracking.pdf)
+
+-	Peiyuan Qin, `Luoyu Mei`, Qi Jing, Shuai Wang, Zhimeng Yin, Xiaolei Zhou. Edge-cloud collaborative interference mitigation with fuzzy detection recovery for LPWANs. *International Conference on Computer Supported Cooperative Work in Design (CSCWD)*. 2022. (<span style="color: #6AA84F;">CCF C</span>)  
+[[DOI]](https://doi.org/10.1109/CSCWD54268.2022.9776037) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/Edge-Cloud_Collaborative_Interference_Mitigation_with_Fuzzy_Detection_Recovery_for_LPWANs.pdf)
+
+-	Peiyuan Qin, `Luoyu Mei`, Qi Jing, Shuai Wang, Zhimeng Yin, Xiaolei Zhou. Eccr: Edge-cloud collaborative recovery for low-power wide-area networks interference mitigation. *Wireless Algorithms, Systems, and Applications: 16th International Conference, (WASA)*. 2021. (<span style="color: #6AA84F;">CCF C</span>)  
+[[DOI]](https://doi.org/10.1007/978-3-030-85928-2_39) [[Download]](https://arxiv.org/pdf/2109.05193)
 
 ### 中文
 ---
