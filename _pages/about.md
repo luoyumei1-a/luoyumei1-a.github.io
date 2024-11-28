@@ -127,6 +127,9 @@ My research interests：
  (Multi-win sharing contract parking space system). *<span style="color: red;">发明授权</span>*. 2021, CN114093197B.
 [[Google Patents]](https://patents.google.com/patent/CN114093197B) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2021113657562.pdf)
 
+- 	王帅，`梅洛瑜`，王帅，徐赵东，惠维，龚伟. 基于毫米波点云的虚拟现实时空数据压缩与语义增强方法 (Virtual reality spatiotemporal data compression and semantic enhancement method based on millimeter wave point cloud). *发明公布*. 2024, CN119002702A.
+[[Google Patents]](https://patents.google.com/patent/CN119002702A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2024111073847.pdf)
+
 - 	王帅，`梅洛瑜`，曹东江，史瑞签. 一种基于联合学习的动态毫米波雷达点云人体解析方法 (Dynamic millimeter wave Lei Dadian cloud human body analysis method based on joint learning). *发明公布*. 2023, CN116359846A.
 [[Google Patents]](https://patents.google.com/patent/CN116359846A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2023102365076.pdf)
 
