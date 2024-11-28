@@ -25,10 +25,10 @@ author:
   avatar           : "images/照片_2024.jpg"
   bio              : "Joint PhD candidate at City University of Hong Kong and Southeast University"
   location: "Hong Kong, Nanjing"
-  employer: "<i class='fa fa-fw fa-map-marker' aria-hidden='true'></i> City University of Hong Kong<br><i class='fa fa-fw fa-map-marker' aria-hidden='true'></i> Southeast University"
+  employer: "City University of Hong Kong<br><i class='fa fa-fw fa-map-marker' aria-hidden='true'></i> Southeast University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=nOMD2YIAAAAJ"
-  email            : "lymei-@seu.edu.cn, luoyumei2-c@my.cityu.edu.hk"
+  email            : "lymei-@seu.edu.cn<br><i class='fa fa-fw fa-envelope' aria-hidden='true'></i> luoyumei2-c@my.cityu.edu.hk"
   researchgate     : 
   uri              : 
   bitbucket        :
@@ -43,8 +43,8 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  linkedin         : "https://www.linkedin.com/in/luoyu-mei-a394ab2b2"
+  dblp             : "https://dblp.org/pid/301/6040.html"
   orcid            : "https://orcid.org/0000-0003-2338-0256"
   pinterest        :
   soundcloud       :
