@@ -106,6 +106,9 @@ My research interests：
 - 	王帅，左伟健，`梅洛瑜`. 一种预测揽派快递员揽收时间的系统 (System for predicting collecting time of collecting and dispatching courier). *发明公布*. 2023, CN116644834A.
 [[Google Patents]](https://patents.google.com/patent/CN116644834A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2023103875729.pdf)
 
+- 	王帅，胡世杰，林丽，夏凯文，`梅洛瑜`. 面向POI的突发公共卫生事件重点区域预测方法及系统 (POI-oriented sudden public health event key area prediction method and system). *发明公布*. 2023, CN116525132A.
+[[Google Patents]](https://patents.google.com/patent/CN116525132A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2023103181421.pdf)
+
 ### 获奖
 ---
 
