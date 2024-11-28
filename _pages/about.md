@@ -76,7 +76,7 @@ My research interests：
 -	Zhiyuan Cui, `Luoyu Mei`, Siyuan Pei, Borui Li, Xiaolei Zhou. Privacy-preserving Human Activity Recognition via Video-based Range-Doppler Synthesis. *International Conference on Computer Supported Cooperative Work in Design (CSCWD)*. 2024. (<span style="color: #6AA84F;">CCF C</span>)  
 [[DOI]](https://doi.org/10.1109/CSCWD61410.2024.10580232) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/Privacy-preserving_Human_Activity_Recognition_via_Video-based_Range-Doppler_Synthesis.pdf)
 
--	Chongyang Song, `Luoyu Mei`, Borui Li, Xiaolei Zhou. Dynamic Liveness Detection Based on Fusion of mmWave Radar and Vision. *China Conference on Wireless Sensor Networks (CWSN)*. 2023.
+-	Chongyang Song, `Luoyu Mei`, Borui Li, Xiaolei Zhou. Dynamic Liveness Detection Based on Fusion of mmWave Radar and Vision. *China Conference on Wireless Sensor Networks (CWSN)*. 2024.
 [[DOI]](https://doi.org/10.1007/978-981-97-1010-2_4) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/978-981-97-1010-2.pdf)
 
 -	Pengfei Song, `Luoyu Mei`, Han Cheng. Human semantic segmentation using millimeter-wave radar sparse point clouds. *International Conference on Computer Supported Cooperative Work in Design (CSCWD)*. 2023. (<span style="color: #6AA84F;">CCF C</span>)  
