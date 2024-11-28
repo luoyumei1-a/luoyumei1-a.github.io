@@ -115,8 +115,11 @@ My research interests：
 - 	王帅，`梅洛瑜`，曹东江，史瑞签. 一种基于联合学习的动态毫米波雷达点云人体解析方法 (Dynamic millimeter wave Lei Dadian cloud human body analysis method based on joint learning). *发明公布*. 2023, CN116359846A.
 [[Google Patents]](https://patents.google.com/patent/CN116359846A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2023102365076.pdf)
 
-- 	王帅，陆瑶，李宗晟`梅洛瑜`. 基于分层强化学习的即时配送实时合作调度系统 (Instant delivery real-time cooperation scheduling system based on layered reinforcement learning). *发明公布*. 2022, CN115510664A.
+- 	王帅，陆瑶，李宗晟，`梅洛瑜`. 基于分层强化学习的即时配送实时合作调度系统 (Instant delivery real-time cooperation scheduling system based on layered reinforcement learning). *发明公布*. 2022, CN115510664A.
 [[Google Patents]](https://patents.google.com/patent/CN115510664A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2022112252370.pdf)
+
+- 	王帅，`梅洛瑜`，张心睿，刘尧畅. 基于深度学习的稀疏轨迹数据恢复系统及方法 (Sparse track data recovery system and method based on deep learning). *发明授权*. 2022, CN115017250B.
+[[Google Patents]](https://patents.google.com/patent/CN115017250B) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2022107569126.pdf)
 
 ### 获奖
 ---
