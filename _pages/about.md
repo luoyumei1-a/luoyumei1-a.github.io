@@ -35,9 +35,7 @@ My research interests：
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
-
-### 英文
+# 📝 Publications
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMUWT 2025</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
