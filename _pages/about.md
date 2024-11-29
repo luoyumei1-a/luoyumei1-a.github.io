@@ -16,7 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# 🏫 About me
+---
 I received the B.S. degrees from the School of the Gifted Young in Southeast University, China. I am currently pursuing the Ph.D. degree of the joint program with the School of Computer Science and Engineering, Southeast University, and the Department of Computer Science, City University of Hong Kong. My research interests include the Wireless Sensing, Internet of Things, Wireless Network and mobile systems.
  <a href='https://scholar.google.com/citations?user=nOMD2YIAAAAJ&hl=en'><img src="https://img.shields.io/badge/Google%20Scholar-47%20citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"></a>.
 
@@ -26,14 +27,15 @@ My research interests：
 - Big Data  
 
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='-degree'></span>
 
 # 🎓 Degree
+---
 - *2022.09 - Now*, <a href="https://www.cityu.edu.hk/"><img class="svg" src="/images/CityU_logo.svg" width="23pt"></a> City University of Hong Kong, Computer Science, PhD candidate
 - *2021.09 - Now*, <a href="https://www.seu.edu.cn/"><img class="svg" src="/images/SEU_logo.svg" width="23pt"></a> Southeast University, Computer Science, Direct Ph.D. Admission
 - *2017.09 - 2021.06*, <a href="https://www.seu.edu.cn/"><img class="svg" src="/images/SEU_logo.svg" width="20pt"></a> Southeast University, Software Engineering, Bachelor.
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-publications'></span>
 
 # 📝 Publications
 ---
@@ -91,7 +93,9 @@ My research interests：
 -	`Luoyu Mei`, Zhimeng Yin, Xiaolei Zhou, Shuai Wang, Kai Sun. Eccr: Edge-cloud collaborative recovery for low-power wide-area networks interference mitigation. *Wireless Algorithms, Systems, and Applications: 16th International Conference, (WASA)*. 2021. (<span style="color: #6AA84F;">CCF C</span>)  
 [[DOI]](https://doi.org/10.1007/978-3-030-85928-2_39) [[Download]](https://arxiv.org/pdf/2109.05193)
 
-### Patents
+<span class='anchor' id='-patents'></span>
+
+# 📑 Patents
 ---
 - 	王帅，`梅洛瑜`，秦培元. 一种基于模糊检测恢复的LPWANs边缘云协同抗干扰方法 (LPWANs edge cloud cooperative anti-interference method based on fuzzy detection recovery). *<span style="color: red;">Granted Patent</span>*. 2024, CN113938485B.
 [[Google Patents]](https://patents.google.com/patent/CN113938485B) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2021114737013.pdf)
@@ -153,9 +157,10 @@ My research interests：
 [[Google Patents]](https://patents.google.com/patent/CN115510664A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2022112252370.pdf)
 -->
 
-<span class='anchor' id='-ryjx'></span>
+<span class='anchor' id='-awards'></span>
 
 # 🏅 Awards
+---
 - *2022* PhD `National Scholarships` BSY202202105 [[Certificate]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/%E5%8D%9A%E5%A3%AB_%E5%9B%BD%E5%A5%96%E8%AF%81%E4%B9%A6-%E6%A2%85%E6%B4%9B%E7%91%9C.pdf)
 - *2020* Undergrad `National Scholarships` BZK202003601 [[Certificate]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/%E6%9C%AC%E7%A7%91_%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91%E8%AF%81%E4%B9%A6.pdf)
 - *2021* ACM TAU Workshop. `Honorary Mention` BZK202003601 [[Certificate]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/TAU2021.pdf)
@@ -165,6 +170,7 @@ My research interests：
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Internship
+---
 - City University of Hong Kong, Research Assistant
 - Tencent Technology (Shenzhen) Co.Ltd, Shenzhen
 - Microsoft (China) Co., Ltd. Suzhou Branch, Suzhou
