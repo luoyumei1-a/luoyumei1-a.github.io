@@ -9,7 +9,7 @@
 title                    : "MEI Luoyu"
 description              : "Wireless sensing, IoT"
 repository               : "luoyumei1-a/luoyumei1-a.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  G-TX9YHT4CS3
