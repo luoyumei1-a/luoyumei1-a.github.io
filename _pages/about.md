@@ -55,7 +55,7 @@ My research interests：
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COMST 2024</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COMST 2024</div><img src='images/comst.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Wang Shuai, `Luoyu Mei (co-first, Supervisor first author)`, Ruofeng Liu, Wenchao Jiang, Zhimeng Yin, Xianjun Deng, and Tian He. Multi-Modal Fusion Sensing: A Comprehensive Review of Millimeter-Wave Radar and Its Integration With Other Modalities. *IEEE Communications Surveys & Tutorials (2024)*. 2024. (<span style="color: red;">JCR:Q1 TOP; IF: 34.4</span>)
@@ -156,8 +156,8 @@ My research interests：
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 Awards
-- *2022* 获得 博士研究生 `国家奖学金`  
-- *2015.06* 获得 第十三届“挑战杯”四川大学生课外学术科技作品竞赛 `一等奖` [[新闻]](https://www.sc.gov.cn/10462/10778/10876/2015/7/1/10341562.shtml)  
+- *2022* PhD `National Scholarships` BSY202202105 [[Certificate]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/%E5%8D%9A%E5%A3%AB_%E5%9B%BD%E5%A5%96%E8%AF%81%E4%B9%A6-%E6%A2%85%E6%B4%9B%E7%91%9C.pdf)
+- *2020* Undergrad `National Scholarships` BZK202003601 [[Certificate]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/%E6%9C%AC%E7%A7%91_%E5%9B%BD%E5%AE%B6%E5%A5%96%E5%AD%A6%E9%87%91%E8%AF%81%E4%B9%A6.pdf)
 - *2014.12* 获得 第四届全国大学生工程训练综合能力竞赛（四川赛区） `一等奖`  
 
 <span class='anchor' id='-gzsx'></span>
