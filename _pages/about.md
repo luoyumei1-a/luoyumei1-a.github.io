@@ -57,7 +57,7 @@ My research interests：Wireless Sensing, IoT, Big Data
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COMST 2024</div><img src='images/comst.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Wang Shuai, `Luoyu Mei (co-first, Supervisor first author)`, Ruofeng Liu, Wenchao Jiang, Zhimeng Yin, Xianjun Deng, and Tian He. Multi-Modal Fusion Sensing: A Comprehensive Review of Millimeter-Wave Radar and Its Integration With Other Modalities. *IEEE Communications Surveys & Tutorials (COMST 2024)*. 2024. (<span style="color: red;">JCR:Q1 TOP; IF: 34.4</span>)
+-	Wang Shuai, `Luoyu Mei (co-first, Advisor first author)`, Ruofeng Liu, Wenchao Jiang, Zhimeng Yin, Xianjun Deng, and Tian He. Multi-Modal Fusion Sensing: A Comprehensive Review of Millimeter-Wave Radar and Its Integration With Other Modalities. *IEEE Communications Surveys & Tutorials (COMST 2024)*. 2024. (<span style="color: red;">JCR:Q1 TOP; IF: 34.4</span>)
 [[DOI]](https://doi.org/10.1109/COMST.2024.3398004) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/Multi-Modal_Fusion_Sensing_A_Comprehensive_Review_of_Millimeter-Wave_Radar_and_Its_Integration_With_Other_Modalities.pdf)
 
 </div>
@@ -66,7 +66,7 @@ My research interests：Wireless Sensing, IoT, Big Data
 - `Luoyu Mei`, Zhimeng Yin, Shuai Wang, Xiaolei Zhou, Taiwei Ling, Tian He. ECRLoRa: LoRa Packet Recovery under Low SNR via Edge–Cloud Collaboration. *ACM Transactions on Sensor Networks (TOSN)*, 2024. 20 (2), 1-25. (<span style="color: #DAA520;">CCF B</span>)
 [[DOI]](https://doi.org/10.1145/3604936) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/ECRLoRa_LoRa%20Packet%20Recovery%20under%20Low%20SNR%20via%20Edge%E2%80%93Cloud%20Collaboration.pdf)
 
-- Shuai Wang, `Luoyu Mei (co-first, Supervisor first author)`, Zhimeng Yin, Hao Li, Ruofeng Liu, Wenchao Jiang, Chris Xiaoxuan Lu. End-to-End Target Liveness Detection via mmWave Radar and Vision Fusion for Autonomous Vehicles. *ACM Transactions on Sensor Networks (TOSN)*, 2024. 20 (4), 1-26. (<span style="color: #DAA520;">CCF B</span>)
+- Shuai Wang, `Luoyu Mei (co-first, Advisor first author)`, Zhimeng Yin, Hao Li, Ruofeng Liu, Wenchao Jiang, Chris Xiaoxuan Lu. End-to-End Target Liveness Detection via mmWave Radar and Vision Fusion for Autonomous Vehicles. *ACM Transactions on Sensor Networks (TOSN)*, 2024. 20 (4), 1-26. (<span style="color: #DAA520;">CCF B</span>)
 [[DOI]](https://doi.org/10.1145/3628453) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/End-to-End%20Target%20Liveness%20Detection%20via%20mmWave%20Radar%20and%20Vision%20Fusion%20for%20Autonomous%20Vehicles.pdf)
 
 -	Ruofeng Liu, Tianshun Yao, Ruili Shi, `Luoyu Mei`, Shuai Wang, Zhimeng Yin, Wenchao Jiang, Shuai Wang. Mission: mmWave Radar Person Identification with RGB Cameras. *Proceedings of the 22nd ACM Conference on Embedded Networked Sensor Systems (SenSys 2024)*. 2024. (<span style="color: #DAA520;">CCF B</span>)  
