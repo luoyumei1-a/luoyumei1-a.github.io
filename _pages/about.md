@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I received the B.S. degrees from the School of the Gifted Young in Southeast University, China. I am currently pursuing the Ph.D. degree of the joint program with the School of Computer Science and Engineering, Southeast University, and the Department of Computer Science, City University of Hong Kong. My research interests include the Wireless Sensing, Internet of Things, Wireless Network and mobile systems.
- <a href='https://scholar.google.com/citations?user=nOMD2YIAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。
+ <a href='https://scholar.google.com/citations?user=nOMD2YIAAAAJ&hl=en'>
 
 My research interests：
 - Wireless Sensing
