@@ -93,63 +93,63 @@ My research interests：
 
 ### Patents
 ---
-- 	王帅，`梅洛瑜`，秦培元. 一种基于模糊检测恢复的LPWANs边缘云协同抗干扰方法 (LPWANs edge cloud cooperative anti-interference method based on fuzzy detection recovery). *<span style="color: red;">发明授权</span>*. 2024, CN113938485B.
+- 	王帅，`梅洛瑜`，秦培元. 一种基于模糊检测恢复的LPWANs边缘云协同抗干扰方法 (LPWANs edge cloud cooperative anti-interference method based on fuzzy detection recovery). *<span style="color: red;">Granted Patent</span>*. 2024, CN113938485B.
 [[Google Patents]](https://patents.google.com/patent/CN113938485B) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2021114737013.pdf)
 
-- 	王帅，`梅洛瑜`，张心睿，刘尧畅. 基于深度学习的稀疏轨迹数据恢复系统及方法 (Sparse track data recovery system and method based on deep learning). *<span style="color: red;">发明授权</span>*. 2024, CN115017250B.
+- 	王帅，`梅洛瑜`，张心睿，刘尧畅. 基于深度学习的稀疏轨迹数据恢复系统及方法 (Sparse track data recovery system and method based on deep learning). *<span style="color: red;">Granted Patent</span>*. 2024, CN115017250B.
 [[Google Patents]](https://patents.google.com/patent/CN115017250B) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2022107569126.pdf)
 
-- 	王帅，`梅洛瑜`，刘尧畅，张心睿. 基于深度学习的区域物流单量预测系统及方法 (Regional logistics single quantity prediction system and method based on deep learning). *<span style="color: red;">发明授权</span>*. 2024, CN115018553B.
+- 	王帅，`梅洛瑜`，刘尧畅，张心睿. 基于深度学习的区域物流单量预测系统及方法 (Regional logistics single quantity prediction system and method based on deep learning). *<span style="color: red;">Granted Patent</span>*. 2024, CN115018553B.
 [[Google Patents]](https://patents.google.com/patent/CN115018553B) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/202210756922X.pdf)
 
-- 	王帅，曹东江，`梅洛瑜`，裴思远. 一种基于视觉和射频感知的跨模态ReID方法 (Cross-modal ReID method based on vision and radio frequency perception). *<span style="color: red;">发明授权</span>*. 2024, CN114022901B.
+- 	王帅，曹东江，`梅洛瑜`，裴思远. 一种基于视觉和射频感知的跨模态ReID方法 (Cross-modal ReID method based on vision and radio frequency perception). *<span style="color: red;">Granted Patent</span>*. 2024, CN114022901B.
 [[Google Patents]](https://patents.google.com/patent/CN114022901B) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2021112981785.pdf)
 
-- 	王帅，胡世杰，`梅洛瑜`. 一种基于强化学习的区域间供需平衡的方法 (Method for balancing supply and demand among areas based on reinforcement learning). *<span style="color: red;">发明授权</span>*. 2024, CN114118851B.
+- 	王帅，胡世杰，`梅洛瑜`. 一种基于强化学习的区域间供需平衡的方法 (Method for balancing supply and demand among areas based on reinforcement learning). *<span style="color: red;">Granted Patent</span>*. 2024, CN114118851B.
 [[Google Patents]](https://patents.google.com/patent/CN114118851B) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2021112981785.pdf)
 
-- 	王帅，王海，`梅洛瑜`，徐鑫. 一种基于移动群体感知的蜂窝信号地图构建方法 (Cellular signal map construction method based on mobile group perception). *<span style="color: red;">发明授权</span>*. 2024, CN114048783B.
+- 	王帅，王海，`梅洛瑜`，徐鑫. 一种基于移动群体感知的蜂窝信号地图构建方法 (Cellular signal map construction method based on mobile group perception). *<span style="color: red;">Granted Patent</span>*. 2024, CN114048783B.
 [[Google Patents]](https://patents.google.com/patent/CN114048783B) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/202111365159X.pdf)
 
 - 	王帅，刘韦，`梅洛瑜`，郑安琪. 一种解决大规模信号异质性的室内人员状态检测的方法
- (Method for detecting indoor personnel state for solving large-scale signal heterogeneity). *<span style="color: red;">发明授权</span>*. 2024, CN114095892B.
+ (Method for detecting indoor personnel state for solving large-scale signal heterogeneity). *<span style="color: red;">Granted Patent</span>*. 2024, CN114095892B.
 [[Google Patents]](https://patents.google.com/patent/CN114095892B) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2021113639189.pdf)
 
 - 	王帅，`梅洛瑜`. 一种带权错误检测的低功耗广域网抗干扰方法
- (Low-power-consumption wide area network anti-interference method with weight error detection). *<span style="color: red;">发明授权</span>*. 2023, CN114050889B.
+ (Low-power-consumption wide area network anti-interference method with weight error detection). *<span style="color: red;">Granted Patent</span>*. 2023, CN114050889B.
 [[Google Patents]](https://patents.google.com/patent/CN114050889B) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2021113155890.pdf)
 
 - 	王帅，胡斌，`梅洛瑜`，张杰锋. 基于多维特征的LoRa并发传输解调方法
- (LoRa concurrent transmission demodulation method based on multidimensional characteristics). *<span style="color: red;">发明授权</span>*. 2023, CN114268529B.
+ (LoRa concurrent transmission demodulation method based on multidimensional characteristics). *<span style="color: red;">Granted Patent</span>*. 2023, CN114268529B.
 [[Google Patents]](https://patents.google.com/patent/CN114268529B) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2021115669189.pdf)
 
 - 	王帅，`梅洛瑜`，凌泰炜，冯悦. 一种多方共赢的共享合同车位系统
- (Multi-win sharing contract parking space system). *<span style="color: red;">发明授权</span>*. 2021, CN114093197B.
+ (Multi-win sharing contract parking space system). *<span style="color: red;">Granted Patent</span>*. 2021, CN114093197B.
 [[Google Patents]](https://patents.google.com/patent/CN114093197B) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2021113657562.pdf)
 
-- 	王帅，`梅洛瑜`，王帅，徐赵东，惠维，龚伟. 基于毫米波点云的虚拟现实时空数据压缩与语义增强方法 (Virtual reality spatiotemporal data compression and semantic enhancement method based on millimeter wave point cloud). *发明公布*. 2024, CN119002702A.
+- 	王帅，`梅洛瑜`，王帅，徐赵东，惠维，龚伟. 基于毫米波点云的虚拟现实时空数据压缩与语义增强方法 (Virtual reality spatiotemporal data compression and semantic enhancement method based on millimeter wave point cloud). *Patent Application*. 2024, CN119002702A.
 [[Google Patents]](https://patents.google.com/patent/CN119002702A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2024111073847.pdf)
 
-- 	王帅，`梅洛瑜`，曹东江，史瑞签. 一种基于联合学习的动态毫米波雷达点云人体解析方法 (Dynamic millimeter wave Lei Dadian cloud human body analysis method based on joint learning). *发明公布*. 2023, CN116359846A.
+- 	王帅，`梅洛瑜`，曹东江，史瑞签. 一种基于联合学习的动态毫米波雷达点云人体解析方法 (Dynamic millimeter wave Lei Dadian cloud human body analysis method based on joint learning). *Patent Application*. 2023, CN116359846A.
 [[Google Patents]](https://patents.google.com/patent/CN116359846A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2023102365076.pdf)
 
 <!-- 
-- 	王帅，卢志强，林丽，`梅洛瑜`. 一种异常事件下的电商物资供需联合预测方法 (E-commerce material supply and demand combined prediction method under abnormal event). *发明公布*. 2023, CN117058713A.
+- 	王帅，卢志强，林丽，`梅洛瑜`. 一种异常事件下的电商物资供需联合预测方法 (E-commerce material supply and demand combined prediction method under abnormal event). *Patent Application*. 2023, CN117058713A.
 [[Google Patents]](https://patents.google.com/patent/CN116934380A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2023108941746.pdf)
 
-- 	王帅，左伟健，`梅洛瑜`. 一种预测揽派快递员揽收时间的系统 (System for predicting collecting time of collecting and dispatching courier). *发明公布*. 2023, CN116644834A.
+- 	王帅，左伟健，`梅洛瑜`. 一种预测揽派快递员揽收时间的系统 (System for predicting collecting time of collecting and dispatching courier). *Patent Application*. 2023, CN116644834A.
 [[Google Patents]](https://patents.google.com/patent/CN116644834A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2023103875729.pdf)
 
-- 	王帅，江林，曹邹颖，`梅洛瑜`. 基于多方公平的即时配送派单系统 (Instant distribution dispatch system based on multiparty fairness). *发明公布*. 2023, CN116805227A.
+- 	王帅，江林，曹邹颖，`梅洛瑜`. 基于多方公平的即时配送派单系统 (Instant distribution dispatch system based on multiparty fairness). *Patent Application*. 2023, CN116805227A.
 [[Google Patents]](https://patents.google.com/patent/CN116805227A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2023103875786.pdf)
 
-- 	王帅，胡世杰，林丽，夏凯文，`梅洛瑜`. 面向POI的突发公共卫生事件重点区域预测方法及系统 (POI-oriented sudden public health event key area prediction method and system). *发明公布*. 2023, CN116525132A.
+- 	王帅，胡世杰，林丽，夏凯文，`梅洛瑜`. 面向POI的突发公共卫生事件重点区域预测方法及系统 (POI-oriented sudden public health event key area prediction method and system). *Patent Application*. 2023, CN116525132A.
 [[Google Patents]](https://patents.google.com/patent/CN116525132A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2023103181421.pdf)
 
-- 	王帅，林丽，夏凯文，许凌艺，`梅洛瑜`. 一种面向应急最后一公里物流的快递员资源分配方法 (Express delivery person resource allocation method for emergency last kilometer logistics). *发明公布*. 2023, CN117057521A.
+- 	王帅，林丽，夏凯文，许凌艺，`梅洛瑜`. 一种面向应急最后一公里物流的快递员资源分配方法 (Express delivery person resource allocation method for emergency last kilometer logistics). *Patent Application*. 2023, CN117057521A.
 [[Google Patents]](https://patents.google.com/patent/CN117057521A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2023103135048.pdf)
 
-- 	王帅，陆瑶，李宗晟，`梅洛瑜`. 基于分层强化学习的即时配送实时合作调度系统 (Instant delivery real-time cooperation scheduling system based on layered reinforcement learning). *发明公布*. 2022, CN115510664A.
+- 	王帅，陆瑶，李宗晟，`梅洛瑜`. 基于分层强化学习的即时配送实时合作调度系统 (Instant delivery real-time cooperation scheduling system based on layered reinforcement learning). *Patent Application*. 2022, CN115510664A.
 [[Google Patents]](https://patents.google.com/patent/CN115510664A) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2022112252370.pdf)
 -->
 
