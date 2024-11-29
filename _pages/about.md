@@ -163,5 +163,6 @@ My research interests：
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Internship
+- City University of Hong Kong, Research Assistant
 - Tencent Technology (Shenzhen) Co.Ltd, Shenzhen
 - Microsoft (China) Co., Ltd. Suzhou Branch, Suzhou
