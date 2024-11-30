@@ -35,7 +35,7 @@ My research interests：Wireless Sensing, Security and Privacy, IoT, Big Data
 
 # 📝 Publications
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMUWT 2025</div><img src='images/mmSpyVR.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMUWT 2025</div><a href="https://doi.org/https://doi.org/10.1145/3699772"><img src='images/mmSpyVR.svg' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Luoyu Mei`, Ruofeng Liu, Zhimeng Yin, Qingchuan Zhao, Wenchao Jiang, Shuai Wang, Shuai Wang, Kangjie Lu, and Tian He. "mmSpyVR: Exploiting mmWave Radar for Penetrating Obstacles to Uncover Privacy Vulnerability of Virtual Reality." *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*, vol. 8, no. 4 (2024): 1-29. (<span style="color: red;">CCF A</span>)
@@ -44,7 +44,7 @@ My research interests：Wireless Sensing, Security and Privacy, IoT, Big Data
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/esp-pct.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><a href="https://doi.org/10.24963/ijcai.2024/131"><img src='images/esp-pct.svg' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Luoyu Mei`, Shuai Wang, Yun Cheng, Ruofeng Liu, Zhimeng Yin, Wenchao Jiang, Shuai Wang, Wei Gong. ESP-PCT: Enhanced VR Semantic Performance through Efficient Compression of Temporal and Spatial Redundancies in Point Cloud Transformers. *Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI 24)*. 2024. (<span style="color: red;">CCF A</span>)
@@ -53,7 +53,7 @@ My research interests：Wireless Sensing, Security and Privacy, IoT, Big Data
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COMST 2024</div><img src='images/comst.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COMST 2024</div><a href="https://doi.org/10.1109/COMST.2024.3398004"><img src='images/comst.svg' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Wang Shuai, `Luoyu Mei (co-first, Advisor first author)`, Ruofeng Liu, Wenchao Jiang, Zhimeng Yin, Xianjun Deng, and Tian He. Multi-Modal Fusion Sensing: A Comprehensive Review of Millimeter-Wave Radar and Its Integration With Other Modalities. *IEEE Communications Surveys & Tutorials (COMST 2024)*. 2024. (<span style="color: red;">JCR:Q1 TOP; IF: 34.4</span>)
