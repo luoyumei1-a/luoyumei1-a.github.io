@@ -165,6 +165,16 @@ My research interests：Wireless Sensing, Security and Privacy, IoT, Big Data
 - *2021* China International College Students’ 'Internet+' Innovation and Entrepreneurship Competition. `Silver Prize` 2021100303 [[Certificate]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/2021%E4%BA%92%E8%81%94%E7%BD%91%2B%E5%9B%BD%E8%B5%9B%E9%93%B6%E5%A5%96.pdf)
 - *2021* National Challenge Cup. `Third Prize Award` 2023-TZB18-TB30420H-A86102 [[Certificate]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/%E6%8F%AD%E6%A6%9C%E6%8C%82%E5%B8%85%E4%B8%89%E7%AD%89%E5%A5%96%E3%80%8A%E5%9F%BA%E4%BA%8E%E9%9B%B7%E8%BE%BERCS%E6%95%B0%E6%8D%AE%E7%9A%84%E9%AB%98%E6%80%A7%E8%83%BD%E7%A9%BA%E9%97%B4%E7%89%A9%E4%BD%93%E6%99%BA%E8%83%BD%E8%AF%86%E5%88%AB%E6%A8%A1%E5%9E%8B%E3%80%8B.pdf)
 
+<span class='anchor' id='-awards'></span>
+
+# 🖥️ Professional Service
+---
+- *IEEE Transactions on Mobile Computing*, Reviewer (<span style="color: red;">CCF A</span>)
+- *IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2025)*, Reviewer (<span style="color: red;">CCF A</span>)
+- *ACM Conference on Human Factors in Computing Systems (CHI 2025)*, Reviewer (<span style="color: red;">CCF A</span>)
+- *International AAAI Conference on Web and Social Media (ICWSM 2025)*, Reviewer (<span style="color: #DAA520;">CCF B</span>)
+- *ACM Conference on Intelligent User Interfaces (ACM IUI 2025)*, Reviewer (<span style="color: #DAA520;">CCF B</span>)
+
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 Internship
