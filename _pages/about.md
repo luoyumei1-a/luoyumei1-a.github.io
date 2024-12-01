@@ -177,7 +177,7 @@ My research interests：Wireless Sensing, Security and Privacy, IoT, Big Data
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 Internship
+# 🪪 Internship
 ---
 - City University of Hong Kong, Research Assistant
 - Tencent Technology (Shenzhen) Co.Ltd, Shenzhen
