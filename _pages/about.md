@@ -29,7 +29,7 @@ My research interests：Wireless Sensing, Security and Privacy, IoT, Big Data
 ---
 - *2022.09 - Now*, <a href="https://scholars.cityu.edu.hk/en/persons/luoyu-mei(a101cf74-6b74-498b-bd40-b6f585cdaa28)/publications.html"><img class="svg" src="/images/CityU_logo.svg" width="23pt"></a> City University of Hong Kong, Computer Science, PhD candidate
 - *2021.09 - Now*, <a href="https://www.seu.edu.cn/"><img class="svg" src="/images/SEU_logo.svg" width="23pt"></a> Southeast University, Computer Science, Direct Ph.D. Admission
-- *2017.09 - 2021.06*, <a href="https://www.seu.edu.cn/"><img class="svg" src="/images/SEU_logo.svg" width="20pt"></a> Southeast University, Software Engineering, Bachelor.
+- *2017.09 - 2021.06*, <a href="https://zsb.seu.edu.cn/2017/0718/c23621a192970/page.htm"><img class="svg" src="/images/SEU_logo.svg" width="20pt"></a> Southeast University, School of the Gifted Young, Bachelor.
  
 <span class='anchor' id='-publications'></span>
 
