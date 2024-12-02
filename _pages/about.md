@@ -174,9 +174,9 @@ My research interests：Wireless Sensing, Security and Privacy, IoT, Big Data
 - *ACM Conference on Human Factors in Computing Systems (CHI 2025)*, Reviewer (<span style="color: red;">CCF A</span>)
 - *International AAAI Conference on Web and Social Media (ICWSM 2025)*, Reviewer (<span style="color: #DAA520;">CCF B</span>)
 - *ACM Conference on Intelligent User Interfaces (ACM IUI 2025)*, Reviewer (<span style="color: #DAA520;">CCF B</span>)
-- *IEEE/ACM International Conference on Human-Robot Interaction (HRI 2025)*
-- *ACM Symposium on Eye Tracking Research & Applications (ETRA 2025)*
-- *European Conference on Information Systems (ECIS 2025)*
+- *IEEE/ACM International Conference on Human-Robot Interaction (HRI 2025)*, Reviewer
+- *ACM Symposium on Eye Tracking Research & Applications (ETRA 2025)*, Reviewer
+- *European Conference on Information Systems (ECIS 2025)*, Reviewer
 
 <span class='anchor' id='-gzsx'></span>
 
