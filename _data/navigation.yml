@@ -14,6 +14,9 @@ main:
 
   - title: "Awards"
     url: "/#-awards"
+    
+  - title: "Professional Service"
+    url: "/#-service"
 
   - title: "Internship"
     url: "/#-internship"
