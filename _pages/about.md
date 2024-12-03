@@ -44,6 +44,7 @@ My research interests：Wireless Sensing, Security and Privacy, IoT, Big Data
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COMST 2024</div><a href="https://doi.org/10.1109/COMST.2024.3398004"><img src='images/comst.svg' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,8 +57,9 @@ My research interests：Wireless Sensing, Security and Privacy, IoT, Big Data
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><a href="https://doi.org/10.24963/ijcai.2024/131"><img src='images/esp-pct.svg' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Luoyu Mei`, Shuai Wang, Yun Cheng, Ruofeng Liu, Zhimeng Yin, Wenchao Jiang, Shuai Wang, Wei Gong. ESP-PCT: Enhanced VR Semantic Performance through Efficient Compression of Temporal and Spatial Redundancies in Point Cloud Transformers. *Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI 24)*. 2024. (<span style="color: red;">CCF A</span>)
-[[DOI]](https://doi.org/10.24963/ijcai.2024/131) [[Download]](https://www.ijcai.org/proceedings/2024/0131.pdf) (Full paper, overall acceptance rate: 791/5651=14.0%, this paper's CV track: 8.4% [[Reference]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/IJCAI%20Acceptance%20Rate.jpg))
+-	`Luoyu Mei`, Shuai Wang, Yun Cheng, Ruofeng Liu, Zhimeng Yin, Wenchao Jiang, Shuai Wang, Wei Gong. ESP-PCT: Enhanced VR Semantic Performance through Efficient Compression of Temporal and Spatial Redundancies in Point Cloud Transformers. *Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI 24)*. 2024. (<span style="color: red;">CCF A</span>) (Full paper, overall acceptance rate: 791/5651=14.0%, this paper's CV track: 8.4% [[Reference]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/IJCAI%20Acceptance%20Rate.jpg))
+[[DOI]](https://doi.org/10.24963/ijcai.2024/131) [[Download]](https://www.ijcai.org/proceedings/2024/0131.pdf)
+
 
 </div>
 </div>
@@ -68,7 +70,7 @@ My research interests：Wireless Sensing, Security and Privacy, IoT, Big Data
 - Shuai Wang, `Luoyu Mei (co-first, Advisor first author)`, Zhimeng Yin, Hao Li, Ruofeng Liu, Wenchao Jiang, Chris Xiaoxuan Lu. End-to-End Target Liveness Detection via mmWave Radar and Vision Fusion for Autonomous Vehicles. *ACM Transactions on Sensor Networks (TOSN)*, 2024. 20 (4), 1-26. (<span style="color: #DAA520;">CCF B</span>)
 [[DOI]](https://doi.org/10.1145/3628453) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/End-to-End%20Target%20Liveness%20Detection%20via%20mmWave%20Radar%20and%20Vision%20Fusion%20for%20Autonomous%20Vehicles.pdf)
 
--	Ruofeng Liu, Tianshun Yao, Ruili Shi, `Luoyu Mei`, Shuai Wang, Zhimeng Yin, Wenchao Jiang, Shuai Wang. Mission: mmWave Radar Person Identification with RGB Cameras. *Proceedings of the 22nd ACM Conference on Embedded Networked Sensor Systems (SenSys 2024)*. 2024. (<span style="color: red;">TH-CPL A</span>)
+-	Ruofeng Liu, Tianshun Yao, Ruili Shi, `Luoyu Mei`, Shuai Wang, Zhimeng Yin, Wenchao Jiang, Shuai Wang. Mission: mmWave Radar Person Identification with RGB Cameras. *Proceedings of the 22nd ACM Conference on Embedded Networked Sensor Systems (SenSys 2024)*. 2024. (<span style="color: #DAA520;">CCF B</span>)  
 [[DOI]](https://doi.org/10.1145/3666025.3699340) [[Download]](https://liux4189.github.io/files/Mission_Sensys24.pdf)
 
 -	Zhiyuan Cui, `Luoyu Mei`, Siyuan Pei, Borui Li, Xiaolei Zhou. Privacy-preserving Human Activity Recognition via Video-based Range-Doppler Synthesis. *International Conference on Computer Supported Cooperative Work in Design (CSCWD)*. 2024. (<span style="color: #6AA84F;">CCF C</span>)  
