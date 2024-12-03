@@ -44,7 +44,6 @@ My research interests：Wireless Sensing, Security and Privacy, IoT, Big Data
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COMST 2024</div><a href="https://doi.org/10.1109/COMST.2024.3398004"><img src='images/comst.svg' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
