@@ -58,7 +58,7 @@ My research interests：Wireless Sensing, Security and Privacy, IoT, Big Data
 <div class='paper-box-text' markdown="1">
 
 -	`Luoyu Mei`, Shuai Wang, Yun Cheng, Ruofeng Liu, Zhimeng Yin, Wenchao Jiang, Shuai Wang, Wei Gong. ESP-PCT: Enhanced VR Semantic Performance through Efficient Compression of Temporal and Spatial Redundancies in Point Cloud Transformers. *Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI 24)*. 2024. (<span style="color: red;">CCF A</span>)  
-Full paper, acceptance rate: 791/5651=14.0%, this paper's CV track: 8.4%  
+Full paper, acceptance rate: 791/5651=14.0%, this paper's CV track: 8.4%.  
 [[Acceptance Rate]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/IJCAI%20Acceptance%20Rate.jpg) [[DOI]](https://doi.org/10.24963/ijcai.2024/131) [[Download]](https://www.ijcai.org/proceedings/2024/0131.pdf)
 
 </div>
