@@ -38,7 +38,7 @@ My research interests：Wireless Sensing, Security and Privacy, IoT, Big Data
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMUWT 2025</div><a href="https://doi.org/https://doi.org/10.1145/3699772"><img src='images/mmSpyVR.svg' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Luoyu Mei`, Ruofeng Liu, Zhimeng Yin, Qingchuan Zhao, Wenchao Jiang, Shuai Wang, Shuai Wang, Kangjie Lu, and Tian He. "mmSpyVR: Exploiting mmWave Radar for Penetrating Obstacles to Uncover Privacy Vulnerability of Virtual Reality." *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*, vol. 8, no. 4 (2024): 1-29. (<span style="color: red;">CCF A</span>)
+-	`Luoyu Mei`, Ruofeng Liu, Zhimeng Yin, Qingchuan Zhao, Wenchao Jiang, Shuai Wang, Shuai Wang, Kangjie Lu, and Tian He. "mmSpyVR: Exploiting mmWave Radar for Penetrating Obstacles to Uncover Privacy Vulnerability of Virtual Reality." *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*, vol. 8, no. 4 (UbiComp 2024): 1-29. (<span style="color: red;">CCF A</span>)
 [[DOI]](https://doi.org/https://doi.org/10.1145/3699772) [[Download]](https://arxiv.org/pdf/2411.09914)
 
 </div>
@@ -57,38 +57,38 @@ My research interests：Wireless Sensing, Security and Privacy, IoT, Big Data
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><a href="https://doi.org/10.24963/ijcai.2024/131"><img src='images/esp-pct.svg' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Luoyu Mei`, Shuai Wang, Yun Cheng, Ruofeng Liu, Zhimeng Yin, Wenchao Jiang, Shuai Wang, Wei Gong. ESP-PCT: Enhanced VR Semantic Performance through Efficient Compression of Temporal and Spatial Redundancies in Point Cloud Transformers. *Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI 24)*. 2024. (<span style="color: red;">CCF A</span>)  
+-	`Luoyu Mei`, Shuai Wang, Yun Cheng, Ruofeng Liu, Zhimeng Yin, Wenchao Jiang, Shuai Wang, Wei Gong. ESP-PCT: Enhanced VR Semantic Performance through Efficient Compression of Temporal and Spatial Redundancies in Point Cloud Transformers. *Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI 2024)*. 2024. (<span style="color: red;">CCF A</span>)  
 Full paper, acceptance rate: 791/5651=14.0%, this paper's CV track: 8.4%.  
 [[Acceptance Rate]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/IJCAI%20Acceptance%20Rate.jpg) [[DOI]](https://doi.org/10.24963/ijcai.2024/131) [[Download]](https://www.ijcai.org/proceedings/2024/0131.pdf)
 
 </div>
 </div>
 
-- `Luoyu Mei`, Zhimeng Yin, Shuai Wang, Xiaolei Zhou, Taiwei Ling, Tian He. ECRLoRa: LoRa Packet Recovery under Low SNR via Edge–Cloud Collaboration. *ACM Transactions on Sensor Networks (TOSN)*, 2024. 20 (2), 1-25. (<span style="color: #DAA520;">CCF B</span>)
+- `Luoyu Mei`, Zhimeng Yin, Shuai Wang, Xiaolei Zhou, Taiwei Ling, Tian He. ECRLoRa: LoRa Packet Recovery under Low SNR via Edge–Cloud Collaboration. *ACM Transactions on Sensor Networks (TOSN 2024)*. 20 (2), 1-25. (<span style="color: #DAA520;">CCF B</span>)
 [[DOI]](https://doi.org/10.1145/3604936) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/ECRLoRa_LoRa%20Packet%20Recovery%20under%20Low%20SNR%20via%20Edge%E2%80%93Cloud%20Collaboration.pdf)
 
-- Shuai Wang, `Luoyu Mei (co-first, Advisor first author)`, Zhimeng Yin, Hao Li, Ruofeng Liu, Wenchao Jiang, Chris Xiaoxuan Lu. End-to-End Target Liveness Detection via mmWave Radar and Vision Fusion for Autonomous Vehicles. *ACM Transactions on Sensor Networks (TOSN)*, 2024. 20 (4), 1-26. (<span style="color: #DAA520;">CCF B</span>)
+- Shuai Wang, `Luoyu Mei (co-first, Advisor first author)`, Zhimeng Yin, Hao Li, Ruofeng Liu, Wenchao Jiang, Chris Xiaoxuan Lu. End-to-End Target Liveness Detection via mmWave Radar and Vision Fusion for Autonomous Vehicles. *ACM Transactions on Sensor Networks (TOSN 2024)*. 20 (4), 1-26. (<span style="color: #DAA520;">CCF B</span>)
 [[DOI]](https://doi.org/10.1145/3628453) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/End-to-End%20Target%20Liveness%20Detection%20via%20mmWave%20Radar%20and%20Vision%20Fusion%20for%20Autonomous%20Vehicles.pdf)
 
 -	Ruofeng Liu, Tianshun Yao, Ruili Shi, `Luoyu Mei`, Shuai Wang, Zhimeng Yin, Wenchao Jiang, Shuai Wang. Mission: mmWave Radar Person Identification with RGB Cameras. *Proceedings of the 22nd ACM Conference on Embedded Networked Sensor Systems (SenSys 2024)*.
 (<span style="color: red;">TH-CPL A</span>) [[DOI]](https://doi.org/10.1145/3666025.3699340) [[Download]](https://liux4189.github.io/files/Mission_Sensys24.pdf)
 
--	Zhiyuan Cui, `Luoyu Mei`, Siyuan Pei, Borui Li, Xiaolei Zhou. Privacy-preserving Human Activity Recognition via Video-based Range-Doppler Synthesis. *International Conference on Computer Supported Cooperative Work in Design (CSCWD)*. 2024. (<span style="color: #6AA84F;">CCF C</span>)
+-	Zhiyuan Cui, `Luoyu Mei`, Siyuan Pei, Borui Li, Xiaolei Zhou. Privacy-preserving Human Activity Recognition via Video-based Range-Doppler Synthesis. *International Conference on Computer Supported Cooperative Work in Design (CSCWD 2024)*. (<span style="color: #6AA84F;">CCF C</span>)
 [[DOI]](https://doi.org/10.1109/CSCWD61410.2024.10580232) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/Privacy-preserving_Human_Activity_Recognition_via_Video-based_Range-Doppler_Synthesis.pdf)
 
--	Chongyang Song, `Luoyu Mei`, Borui Li, Xiaolei Zhou. Dynamic Liveness Detection Based on Fusion of mmWave Radar and Vision. *China Conference on Wireless Sensor Networks (CWSN)*. 2024.
+-	Chongyang Song, `Luoyu Mei`, Borui Li, Xiaolei Zhou. Dynamic Liveness Detection Based on Fusion of mmWave Radar and Vision. *China Conference on Wireless Sensor Networks (CWSN 2024)*.
 [[DOI]](https://doi.org/10.1007/978-981-97-1010-2_4) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/978-981-97-1010-2.pdf)
 
--	Pengfei Song, `Luoyu Mei`, Han Cheng. Human semantic segmentation using millimeter-wave radar sparse point clouds. *International Conference on Computer Supported Cooperative Work in Design (CSCWD)*. 2023. (<span style="color: #6AA84F;">CCF C</span>)
+-	Pengfei Song, `Luoyu Mei`, Han Cheng. Human semantic segmentation using millimeter-wave radar sparse point clouds. *International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023)*. (<span style="color: #6AA84F;">CCF C</span>)
 [[DOI]](https://doi.org/10.1109/CSCWD57460.2023.10152726) [[Download]](https://arxiv.org/pdf/2304.14132)
 
--	Wenchao Jiang, Feng Li, `Luoyu Mei`, Ruofeng Liu, Shuai Wang. VisBLE: Vision-enhanced BLE device tracking. *IEEE International Conference on Sensing, Communication, and Networking (SECON)*. 2022. (<span style="color: #DAA520;">CCF B</span>)
+-	Wenchao Jiang, Feng Li, `Luoyu Mei`, Ruofeng Liu, Shuai Wang. VisBLE: Vision-enhanced BLE device tracking. *IEEE International Conference on Sensing, Communication, and Networking (SECON 2022)*. (<span style="color: #DAA520;">CCF B</span>)
 [[DOI]](https://doi.org/10.1109/SECON55815.2022.9918581) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/VisBLE_Vision-Enhanced_BLE_Device_Tracking.pdf)
 
--	Peiyuan Qin, `Luoyu Mei`, Qi Jing, Shuai Wang, Zhimeng Yin, Xiaolei Zhou. Edge-cloud collaborative interference mitigation with fuzzy detection recovery for LPWANs. *International Conference on Computer Supported Cooperative Work in Design (CSCWD)*. 2022. (<span style="color: #6AA84F;">CCF C</span>)
+-	Peiyuan Qin, `Luoyu Mei`, Qi Jing, Shuai Wang, Zhimeng Yin, Xiaolei Zhou. Edge-cloud collaborative interference mitigation with fuzzy detection recovery for LPWANs. *International Conference on Computer Supported Cooperative Work in Design (CSCWD 2022)*. (<span style="color: #6AA84F;">CCF C</span>)
 [[DOI]](https://doi.org/10.1109/CSCWD54268.2022.9776037) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/Edge-Cloud_Collaborative_Interference_Mitigation_with_Fuzzy_Detection_Recovery_for_LPWANs.pdf)
 
--	`Luoyu Mei`, Zhimeng Yin, Xiaolei Zhou, Shuai Wang, Kai Sun. Eccr: Edge-cloud collaborative recovery for low-power wide-area networks interference mitigation. *Wireless Algorithms, Systems, and Applications: 16th International Conference, (WASA)*. 2021. (<span style="color: #6AA84F;">CCF C</span>)
+-	`Luoyu Mei`, Zhimeng Yin, Xiaolei Zhou, Shuai Wang, Kai Sun. Eccr: Edge-cloud collaborative recovery for low-power wide-area networks interference mitigation. *Wireless Algorithms, Systems, and Applications: 16th International Conference, (WASA 2021)*. (<span style="color: #6AA84F;">CCF C</span>)
 [[DOI]](https://doi.org/10.1007/978-3-030-85928-2_39) [[Download]](https://arxiv.org/pdf/2109.05193)
 
 <span class='anchor' id='-patents'></span>
