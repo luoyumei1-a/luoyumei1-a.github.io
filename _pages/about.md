@@ -38,7 +38,7 @@ My research interests：Wireless Sensing, Security and Privacy, IoT, Big Data
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMUWT 2025</div><a href="https://doi.org/https://doi.org/10.1145/3699772"><img src='images/mmSpyVR.svg' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Luoyu Mei`, Ruofeng Liu, Zhimeng Yin, Qingchuan Zhao, Wenchao Jiang, Shuai Wang, Shuai Wang, Kangjie Lu, and Tian He. "mmSpyVR: Exploiting mmWave Radar for Penetrating Obstacles to Uncover Privacy Vulnerability of Virtual Reality." *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*, vol. 8, no. 4 (UbiComp 2024): 1-29. (<span style="color: red;">CCF A</span>)
+-	`Luoyu Mei`, Ruofeng Liu, Zhimeng Yin, Qingchuan Zhao, Wenchao Jiang, Shuai Wang, Shuai Wang, Kangjie Lu, and Tian He. "mmSpyVR: Exploiting mmWave Radar for Penetrating Obstacles to Uncover Privacy Vulnerability of Virtual Reality." *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*, vol. 8, no. 4 (UbiComp 2025): 1-29. (<span style="color: red;">CCF A</span>)
 [[DOI]](https://doi.org/https://doi.org/10.1145/3699772) [[Download]](https://arxiv.org/pdf/2411.09914)
 
 </div>
