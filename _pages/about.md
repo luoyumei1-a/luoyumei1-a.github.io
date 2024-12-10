@@ -101,8 +101,11 @@ Full paper, acceptance rate: 791/5651=14.0%, this paper's CV track: 8.4%.
 - 	王帅，`梅洛瑜`，张心睿，刘尧畅. 基于深度学习的稀疏轨迹数据恢复系统及方法 (Sparse track data recovery system and method based on deep learning). *<span style="color: red;">Granted Patent</span>*. 2024, CN115017250B.
 [[Google Patents]](https://patents.google.com/patent/CN115017250B) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/2022107569126.pdf)
 
-- 	王帅，`梅洛瑜`，刘尧畅，张心睿. 基于深度学习的区域物流单量预测系统及方法 (Regional logistics single quantity prediction system and method based on deep learning). *<span style="color: red;">Granted Patent</span>*. 2024, CN115018553B.
-[[Google Patents]](https://patents.google.com/patent/CN115018553B) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/202210756922X.pdf)
+- 	王帅，周智圆，`梅洛瑜`. 基于深度学习的区域物流单量预测系统及方法 (Regional logistics single quantity prediction system and method based on deep learning). *<span style="color: red;">Granted Patent</span>*. 2024, CN114004409B.
+[[Google Patents]](https://patents.google.com/patent/CN114004409B) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/2021113017138.pdf)
+
+- 王帅，曹东江，`梅洛瑜`，裴思远. 一种基于多源数据的即时配送路径预测方法 (Cross-modal ReID method based on vision and radio frequency perception). *<span style="color: red;">Granted Patent</span>*. 2024, CN114022901B.
+[[Google Patents]](https://patents.google.com/patent/CN114022901B) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/2021112981785.pdf)
 
 - 	王帅，曹东江，`梅洛瑜`，裴思远. 一种基于视觉和射频感知的跨模态ReID方法 (Cross-modal ReID method based on vision and radio frequency perception). *<span style="color: red;">Granted Patent</span>*. 2024, CN114022901B.
 [[Google Patents]](https://patents.google.com/patent/CN114022901B) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/2021112981785.pdf)
