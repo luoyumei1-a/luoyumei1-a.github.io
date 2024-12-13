@@ -64,6 +64,9 @@ Full paper, acceptance rate: 791/5651=14.0%, this paper's CV track: 8.4%.
 </div>
 </div>
 
+- `Luoyu Mei`, Zhimeng Yin, Shuai Wang, Xiaolei Zhou, Taiwei Ling, Tian He. Demo: Real-time mmWave Radar Human Sensing Testbed. *Proceedings of the 30th Annual International Conference on Mobile Computing and Networking (MobiCom 2024 Demo)*. 20 (2), 1-25. (<span style="color: red;">CCF A</span>)
+[[DOI]](https://doi.org/10.1145/3636534.3698860) [[Download]](https://github.com/luoyumei1-a/luoyumei1-a.github.io/blob/master/docs/Real-time%20mmWave%20Radar%20Human%20Sensing%20Testbed.pdf)
+
 - `Luoyu Mei`, Zhimeng Yin, Shuai Wang, Xiaolei Zhou, Taiwei Ling, Tian He. ECRLoRa: LoRa Packet Recovery under Low SNR via Edge–Cloud Collaboration. *ACM Transactions on Sensor Networks (TOSN 2024)*. 20 (2), 1-25. (<span style="color: #DAA520;">CCF B</span>)
 [[DOI]](https://doi.org/10.1145/3604936) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/ECRLoRa_LoRa%20Packet%20Recovery%20under%20Low%20SNR%20via%20Edge%E2%80%93Cloud%20Collaboration.pdf)
 
