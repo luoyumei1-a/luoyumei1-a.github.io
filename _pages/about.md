@@ -180,11 +180,11 @@ Full paper, acceptance rate: 791/5651=14.0%, this paper's CV track: 8.4%.
 - *ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW 2025)*, Reviewer (<span style="color: red;">CCF A</span>)
 - *IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2025)*, Reviewer (<span style="color: red;">CCF A</span>)
 - *ACM Conference on Human Factors in Computing Systems (CHI 2025)*, Reviewer (<span style="color: red;">CCF A</span>)
+- *Annual Meeting of the Cognitive Science Society (CogSci 2025)*, Reviewer (<span style="color: #DAA520;">CCF B</span>)
 - *International AAAI Conference on Web and Social Media (ICWSM 2025)*, Reviewer (<span style="color: #DAA520;">CCF B</span>)
 - *ACM Conference on Intelligent User Interfaces (ACM IUI 2025)*, Reviewer (<span style="color: #DAA520;">CCF B</span>)
 - *IEEE/ACM International Conference on Human-Robot Interaction (HRI 2025)*, Reviewer
 - *ACM Symposium on Eye Tracking Research & Applications (ETRA 2025)*, Reviewer
-- *European Conference on Information Systems (ECIS 2025)*, Reviewer
 
 <span class='anchor' id='-gzsx'></span>
 
