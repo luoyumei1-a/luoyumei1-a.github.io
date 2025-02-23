@@ -177,7 +177,7 @@ Full paper, acceptance rate: 791/5651=14.0%, this paper's CV track: 8.4%.
 # 🖥️ Professional Service
 ---
 - *IEEE Transactions on Mobile Computing*, Reviewer (<span style="color: red;">CCF A</span>)
-- *ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*, Reviewer (<span style="color: red;">CCF A</span>)
+- *ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT 2025)*, Reviewer (<span style="color: red;">CCF A</span>)
 - *ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW 2025)*, Reviewer (<span style="color: red;">CCF A</span>)
 - *IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2025)*, Reviewer (<span style="color: red;">CCF A</span>)
 - *ACM Conference on Human Factors in Computing Systems (CHI 2025)*, Reviewer (<span style="color: red;">CCF A</span>)
