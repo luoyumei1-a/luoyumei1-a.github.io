@@ -24,38 +24,12 @@ author:
   avatar           : "images/照片_2024.jpg"
   bio              : "Joint PhD candidate at<br>City University of Hong Kong and<br>Southeast University"
   location         : "Hong Kong, Nanjing<br>⛪ City University of Hong Kong<br>🏠 Southeast University"
-  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=nOMD2YIAAAAJ"
   email            : "lymei-@seu.edu.cn"
-  researchgate     : 
-  uri              : 
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "luoyumei1-a"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "luoyu-mei-a394ab2b2"
   dblp             : "https://dblp.org/pid/301/6040.html"
   orcid            : "https://orcid.org/0000-0003-2338-0256"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
 
 # Reading Files
 include:
