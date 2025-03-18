@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "MEI Luoyu"
   avatar           : "images/照片_2024.jpg"
-  bio              : "Joint PhD candidate at \\ City University of Hong Kong and Southeast University"
+  bio              : "Joint PhD candidate at<br>City University of Hong Kong and<br>Southeast University"
   location         : "Hong Kong, Nanjing<br>⛪ City University of Hong Kong<br>🏠 Southeast University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=nOMD2YIAAAAJ"
