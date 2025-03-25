@@ -28,7 +28,7 @@ My research interests include the Wireless Sensing, Internet of Things, Wireless
 </a>
 
 <a href='https://scholar.google.com/citations?user=nOMD2YIAAAAJ'>
-<img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat" alt="Google Scholar citations"/></a>
+<img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Google%20Scholar&suffix=%20citations" alt="Google Scholar citations"/></a>
 
 **<font color="#FF0000">I am currently on the job market!</font>**
 
