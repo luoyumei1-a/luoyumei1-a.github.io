@@ -9,7 +9,7 @@
 title                    : "MEI Luoyu Homepage"
 description              : "MEI Luoyu Homepage"
 repository               : "luoyumei1-a/luoyumei1-a.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  G-TX9YHT4CS3
