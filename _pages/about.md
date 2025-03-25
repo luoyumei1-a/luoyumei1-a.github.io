@@ -21,7 +21,8 @@ redirect_from:
 I received the B.S. degrees from the [**Special Class for the Gifted Young**](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) in Southeast University, China. I am currently pursuing the Ph.D. degree of the joint program with the Department of Computer Science, City University of Hong Kong, and the School of Computer Science and Engineering, Southeast University, under the supervision of [IEEE/ACM Fellow Prof. HE Tian](https://scholar.google.com/citations?user=hc1m_BQAAAAJ&hl=en), [Prof. WANG Shuai](https://scholar.google.com/citations?user=gfDfZqAAAAAJ&hl=en), and [Prof. YIN Zhimeng](https://scholar.google.com/citations?user=T89V0RAAAAAJ&hl=en). I'm also closely collaborated with [Prof. LIU Roufeng](https://liux4189.github.io/) and [Prof. JIANG Wenchao](https://sites.google.com/site/jiangwenchao88). 
 
 My research interests include the Wireless Sensing, Internet of Things, Wireless Network and mobile systems. I have some reviewing experience (see 'Professional Service') and am willing to serve as a reviewer to contribute to the peer-review process.
- <a href='https://scholar.google.com/citations?user=nOMD2YIAAAAJ&hl=en'><img src="https://img.shields.io/badge/Google%20Scholar-62%20citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"></a>.
+ <a href='https://scholar.google.com/citations?user=nOMD2YIAAAAJ'><img src="https://img.shields.io/badge/Google%20Scholar-62%20citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"></a>.
+  <a href='https://scholar.google.com/citations?user=nOMD2YIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 **<font color="#FF0000">I am currently on the job market!</font>**
 
