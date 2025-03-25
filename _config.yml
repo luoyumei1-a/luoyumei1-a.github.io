@@ -6,7 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "MEI Luoyu"
+title                    : "MEI Luoyu Homepage"
+description              : "MEI Luoyu Homepage"
 repository               : "luoyumei1-a/luoyumei1-a.github.io"
 google_scholar_stats_use_cdn : true
 
