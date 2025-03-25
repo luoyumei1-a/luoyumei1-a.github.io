@@ -26,6 +26,10 @@ My research interests include the Wireless Sensing, Internet of Things, Wireless
 <a href='https://scholar.google.com/citations?user=nOMD2YIAAAAJ'><img src="https://img.shields.io/badge/dynamic/json?label=Google%20Scholar&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&query=$.citations&url=https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@google-scholar-stats/gs_data.json" alt="Google Scholar citations"/>
 </a>
 
+<a href='https://scholar.google.com/citations?user=nOMD2YIAAAAJ'>
+  <img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@google-scholar-stats/gs_data_shieldsio.json&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat" alt="Google Scholar citations"/>
+</a>
+
 **<font color="#FF0000">I am currently on the job market!</font>**
 
 Email: luoyumei2-c@my.cityu.edu.hk, lymei-@seu.edu.cn
