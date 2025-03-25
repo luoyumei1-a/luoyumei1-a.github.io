@@ -22,7 +22,9 @@ I received the B.S. degrees from the [**Special Class for the Gifted Young**](ht
 
 My research interests include the Wireless Sensing, Internet of Things, Wireless Network and mobile systems. I have some reviewing experience (see 'Professional Service') and am willing to serve as a reviewer to contribute to the peer-review process.
  <a href='https://scholar.google.com/citations?user=nOMD2YIAAAAJ'><img src="https://img.shields.io/badge/Google%20Scholar-62%20citations-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat"></a>.
-  <a href='https://scholar.google.com/citations?user=nOMD2YIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+<a href='https://scholar.google.com/citations?user=nOMD2YIAAAAJ'>
+  <img src="https://img.shields.io/badge/dynamic/json?label=Google%20Scholar&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&query=$.citations&url=https://raw.githubusercontent.com/luoyumei1-a/luoyumei1-a.github.io/google-scholar-stats/gs_data.json" alt="Google Scholar citations"/>
+</a>
 
 **<font color="#FF0000">I am currently on the job market!</font>**
 
