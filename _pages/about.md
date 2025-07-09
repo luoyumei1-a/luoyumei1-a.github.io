@@ -54,7 +54,7 @@ My research interests：Wireless Sensing, Security and Privacy, IoT, Big Data
 <div class='paper-box-text' markdown="1">
 
 -	Wang Shuai, `Luoyu Mei (co-first, Advisor first author)`, Ruofeng Liu, Wenchao Jiang, Zhimeng Yin, Xianjun Deng, and Tian He. Multi-Modal Fusion Sensing: A Comprehensive Review of Millimeter-Wave Radar and Its Integration With Other Modalities. *IEEE Communications Surveys & Tutorials (COMST 2024)*.
-(<span style="color: red;">JCR:Q1 TOP; IF: 34.4</span>) [[DOI]](https://doi.org/10.1109/COMST.2024.3398004) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/Multi-Modal_Fusion_Sensing_A_Comprehensive_Review_of_Millimeter-Wave_Radar_and_Its_Integration_With_Other_Modalities.pdf)
+(<span style="color: red;">JCR:Q1 TOP; IF: 46.7 (2025)</span>) [[DOI]](https://doi.org/10.1109/COMST.2024.3398004) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/Multi-Modal_Fusion_Sensing_A_Comprehensive_Review_of_Millimeter-Wave_Radar_and_Its_Integration_With_Other_Modalities.pdf)
 
 </div>
 </div>
