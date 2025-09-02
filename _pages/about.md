@@ -40,6 +40,15 @@ My research interests：Wireless Sensing, Security and Privacy, IoT, Big Data
 
 # 📝 Publications
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2025</div><a href="https://doi.org/https://doi.org/10.1145/3699772"><img src='images/VR-PCT.svg' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Luoyu Mei`, Shuai Wang, Ruofeng Liu, Shuai Wang, Wenchao Jiang, Zhimeng Yin, and Tian He. "VR-PCT: Enhanced VR Semantic Performance via Edge-Client Collaborative Multi-modal Point Cloud Transformers." *IEEE Transactions on Mobile Computing*, (TMC 2025). (<span style="color: red;">CCF A</span>)
+[[DOI]](To be announced) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/VR_PCT_Enhanced_VR_Semantic_Performance_via_Edge_Client_Collaborative_Multi_modal_Point_Cloud_Transformers_R1.pdf)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMUWT 2025</div><a href="https://doi.org/https://doi.org/10.1145/3699772"><img src='images/mmSpyVR.svg' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -200,3 +209,4 @@ Full paper, acceptance rate: 791/5651=14.0%, this paper's CV track: 8.4%.
 - City University of Hong Kong, Research Assistant
 - Tencent Technology (Shenzhen) Co.Ltd, Shenzhen
 - Microsoft (China) Co., Ltd. Suzhou Branch, Suzhou
+
