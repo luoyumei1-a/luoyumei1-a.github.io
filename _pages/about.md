@@ -121,7 +121,7 @@ Full paper, acceptance rate: 791/5651=14.0%, this paper's CV track: 8.4%.
 - 	王帅，周智圆，`梅洛瑜`. 基于深度学习的区域物流单量预测系统及方法 (Regional logistics single quantity prediction system and method based on deep learning). *<span style="color: red;">Granted Patent</span>*. 2024, CN114004409B.
 [[Google Patents]](https://patents.google.com/patent/CN114004409B) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/2021113017138.pdf)
 
-- 王帅，曹东江，`梅洛瑜`，裴思远. 一种基于多源数据的即时配送路径预测方法 (Cross-modal ReID method based on vision and radio frequency perception). *<span style="color: red;">Granted Patent</span>*. 2024, CN114022901B.
+- 王帅，曹东江，`梅洛瑜`，裴思远. 一种基于多源数据的即时配送路径预测方法 (	Method for instant delivery route prediction based on multi-source data). *<span style="color: red;">Granted Patent</span>*. 2024, CN 114022901 B.
 [[Google Patents]](https://patents.google.com/patent/CN114022901B) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/2021112981785.pdf)
 
 - 	王帅，曹东江，`梅洛瑜`，裴思远. 一种基于视觉和射频感知的跨模态ReID方法 (Cross-modal ReID method based on vision and radio frequency perception). *<span style="color: red;">Granted Patent</span>*. 2024, CN114022901B.
@@ -209,6 +209,7 @@ Full paper, acceptance rate: 791/5651=14.0%, this paper's CV track: 8.4%.
 - City University of Hong Kong, Research Assistant
 - Tencent Technology (Shenzhen) Co.Ltd, Shenzhen
 - Microsoft (China) Co., Ltd. Suzhou Branch, Suzhou
+
 
 
 
