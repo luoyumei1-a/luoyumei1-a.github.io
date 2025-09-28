@@ -113,10 +113,10 @@ Full paper, acceptance rate: 791/5651=14.0%, this paper's CV track: 8.4%.
 # 📑 Patents
 ---
 - 	王帅，`梅洛瑜`，王帅，徐赵东，惠维，龚伟. 基于毫米波点云的虚拟现实时空数据压缩与语义增强方法 (Virtual reality spatiotemporal data compression and semantic enhancement method based on millimeter wave point cloud). *<span style="color: red;">Granted Patent</span>*. 2025, ZL 2024 1 1107384.7.
-[[Google Patents]](https://patents.google.com/patent/CN119002702B) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/2021114737013.pdf)
+[[Google Patents]](https://patents.google.com/patent/CN119002702B) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/%E8%AF%81%E4%B9%A6--%E5%9F%BA%E4%BA%8E%E6%AF%AB%E7%B1%B3%E6%B3%A2%E7%82%B9%E4%BA%91%E7%9A%84%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E%E6%97%B6%E7%A9%BA%E6%95%B0%E6%8D%AE%E5%8E%8B%E7%BC%A9%E4%B8%8E%E8%AF%AD%E4%B9%89%E5%A2%9E%E5%BC%BA%E6%96%B9%E6%B3%95.pdf)
 
 - 	王帅，陆瑶，李宗晟，`梅洛瑜`. 基于分层强化学习的即时配送实时合作调度系统 (Real-time cooperative scheduling system for instant delivery based on hierarchical reinforcement learning). *<span style="color: red;">Granted Patent</span>*. 2025, ZL 2022 1 1225237.0.
-[[Google Patents]](https://patents.google.com/patent/CN115510664B) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/2021114737013.pdf)
+[[Google Patents]](https://patents.google.com/patent/CN115510664B) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/%E8%AF%81%E4%B9%A6--%E5%9F%BA%E4%BA%8E%E5%88%86%E5%B1%82%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%8D%B3%E6%97%B6%E9%85%8D%E9%80%81%E5%AE%9E%E6%97%B6%E5%90%88%E4%BD%9C%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F.pdf)
 
 - 	王帅，`梅洛瑜`，秦培元. 一种基于模糊检测恢复的LPWANs边缘云协同抗干扰方法 (LPWANs edge cloud cooperative anti-interference method based on fuzzy detection recovery). *<span style="color: red;">Granted Patent</span>*. 2024, ZL 2021 1 1473701.3.
 [[Google Patents]](https://patents.google.com/patent/CN113938485B) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/2021114737013.pdf)
