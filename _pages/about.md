@@ -152,7 +152,7 @@ Full paper, acceptance rate: 791/5651=14.0%, this paper's CV track: 8.4%.
 [[Google Patents]](https://patents.google.com/patent/CN114268529B) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/2021115669189.pdf)
 
 - 	王帅，`梅洛瑜`，凌泰炜，冯悦. 一种多方共赢的共享合同车位系统
- (Multi-win sharing contract parking space system). *<span style="color: red;">Granted Patent</span>*. 2021, L 2021 1 1365756.2.
+ (Multi-win sharing contract parking space system). *<span style="color: red;">Granted Patent</span>*. 2021, ZL 2021 1 1365756.2.
 [[Google Patents]](https://patents.google.com/patent/CN114093197B) [[Download]](https://cdn.jsdelivr.net/gh/luoyumei1-a/luoyumei1-a.github.io@master/docs/2021113657562.pdf)
 
 - 	王帅，`梅洛瑜`，曹东江，史瑞签. 一种基于联合学习的动态毫米波雷达点云人体解析方法 (Dynamic millimeter wave Lei Dadian cloud human body analysis method based on joint learning). *Patent Application*. 2023, CN116359846A.
